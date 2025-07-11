@@ -5,7 +5,9 @@
 using namespace std;
 
 int mostBooked(int n, vector<vector<int>>& meetings) {
-    
+    vector<int> roomCount(n, 0);
+    vector<int> roomEndTime(n, 0);
+    return 1;
 }
 
 
